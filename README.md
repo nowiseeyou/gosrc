@@ -1,5 +1,3 @@
 ## goSrc ##
 
 	golang resource
-
-++
